@@ -22,4 +22,4 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir Pokémon proj
 
 ## Proje linki
 
-![](https://pokemon-project-x.netlify.app/)# pokemon-project
+![](https://github.com/Rasime-Dumlupunar/pokemon-project/blob/main/pokemon.gif)
