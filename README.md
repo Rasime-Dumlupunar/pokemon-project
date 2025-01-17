@@ -20,6 +20,5 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir Pokémon proj
 - **PokeAPI:** Pokémon verilerini almak için.
 - **FontAwesome:** İkonları kullanmak için.
 
-## Proje linki
 
 ![](https://github.com/Rasime-Dumlupunar/pokemon-project/blob/main/pokemon.gif)
